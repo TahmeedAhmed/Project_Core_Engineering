@@ -1,5 +1,9 @@
-<<<<<<< HEAD
 This is from the master branch
-=======
 This is from the NTTDataProject_Feature branch
->>>>>>> NTTDataProject_Feature
+THis is from the master branch - line 3
+This is from the master branch - line 4
+<<<<<<< HEAD
+This is from the CoreEngineeringFeature branch - line 5
+=======
+This is from the master branch - line 5
+>>>>>>> committed by master branch, line 5
